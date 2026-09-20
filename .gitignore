@@ -1,0 +1,16 @@
+# Spring Boot Backend Ignores
+**/URL-shortner-backend/target/
+**/URL-shortner-backend/.gradle/
+**/URL-shortner-backend/build/
+
+# React Frontend Ignores
+**/URL-shortner-frontend/node_modules/
+**/URL-shortner-frontend/build/
+**/URL-shortner-frontend/dist/
+
+# Development IDE & OS Ignores
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
